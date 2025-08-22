@@ -13,7 +13,6 @@ Each folder corresponds to an episode in the series:
 ```
 01-single-input-neuron/
     single_input_neuron.ipynb
-    single_input_neuron.py
 02-multiple-input-neuron/
     ...
 ```
@@ -57,7 +56,7 @@ Each folder corresponds to an episode in the series:
 
 ## 🔗 Links
 - 📺 YouTube Playlist: [Learn to Design a Neural Network](https://youtube.com/@learndataa)
-- 🧑‍💻 GitHub Repo: [This Repository](https://github.com/<your-username>/learn-neural-network-design)
+- 🧑‍💻 GitHub Repo: [This Repository](https://github.com/learndataa/learn-neural-network-design)
 
 ---
 
