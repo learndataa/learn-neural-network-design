@@ -22,7 +22,7 @@ Each folder corresponds to an episode in the series:
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/learn-neural-network-design.git
+   git clone https://github.com/learndataa/learn-neural-network-design.git
    cd learn-neural-network-design
    ```
 
